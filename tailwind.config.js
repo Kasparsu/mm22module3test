@@ -5,6 +5,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'primary': ['Komikazoom', 'sans-serif'],
+      'secondary': ['Kenyan Coffee', 'sans-serif']
+    }
   },
   plugins: [],
 }

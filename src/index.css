@@ -1,3 +1,5 @@
 @tailwind base;
 @tailwind components;
+@import url('https://fonts.cdnfonts.com/css/komikazoom');
+@import url('https://fonts.cdnfonts.com/css/kenyan-coffee');
 @tailwind utilities;
